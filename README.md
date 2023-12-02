@@ -26,7 +26,7 @@ To grow liquidity, protocols need to give out emissions but unfortunately many p
 
 YieldLend fixes this by:
 
-1. Have a diverse lending market with support for many different assets. YieldLend currently has the most number of assets listed for lend/borrow.
+1. Have a diverse lending market with support for many different assets. YieldLend currently has the most number of assets listed for lend/borrow on Base.
 2. Launching a fair-launched governance token (YIELD) with no team/VC allocation.
 3. Creating incentives to hold YIELD long term (Such as 4-year staking, staking bonuses and penalties for early withdrawal).
 4. Generating revenue from taxes and the lending market. Revenue generated from the protocol is used to continuously buyback and burn YIELD, increasing liquidity and making YIELD more scarce..
