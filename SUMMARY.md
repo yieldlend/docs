@@ -7,4 +7,8 @@
   * [Emission Schedule](tokenomics/emission-schedule.md)
   * [Vesting](tokenomics/vesting.md)
   * [Bonding Curve Sale](tokenomics/bonding-curve-sale.md)
-* [Deployed Addresses](deployed-addresses.md)
+
+## Security
+
+* [Timelocked Admin](security/timelocked-admin.md)
+* [Deployed Addresses](security/deployed-addresses.md)
