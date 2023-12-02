@@ -13,3 +13,7 @@ The YIELD token implements three kinds of fees.
 * **Liquidity fee (1%):** This is the fee that is charged and used to add liquidity to the protocol.
 
 These fees are charged to ensure that the protocol can generate revenue from trading fees and from the speculative demand for YIELD.
+
+## Protocol Revenue
+
+Any revenue generated from the protocol will be used to continuously buyback and burn from the public market. This creates positive price action for YIELD thats helps drive long-term speculative demand for YIELD.
