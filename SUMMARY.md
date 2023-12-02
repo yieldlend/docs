@@ -9,6 +9,7 @@
 * [Emission Schedule](tokenomics/emission-schedule.md)
 * [Bonding Curve Sale](tokenomics/bonding-curve-sale.md)
 * [Vesting](tokenomics/vesting.md)
+* [Governance](tokenomics/governance.md)
 
 ## Security
 

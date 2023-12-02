@@ -19,3 +19,5 @@ Users also have the option to convert their 6 month vest directly into a 4 year 
 eg: John has 6000 YIELD that is vesting for 6 months. He claimed some tokens but decides he would rather stake these tokens and start earning staking rewards. John chooses the bonus and converts his 6000 YIELD into 7200 weYIELD NFT that is staked for 4 years.
 
 This bonus is given to incentivize long-term holders in the project. This bonus is valid as long as there ie enough YIELD tokens in the bonus pool.
+
+To learn more about weYIELD, read [veTokenomics](vetokenomics.md).
