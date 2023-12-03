@@ -17,6 +17,8 @@ Yield lend builds on top of:
 * **Tax-tokenomics from Memecoins:** Users that trade the YIELD token pay a 5% tax on every sell that is used to contribute to token liquidity, increase token scarcity and generate revenue.
 * **Money market from Aave:** Users provide liquidity into the money market which is based on Aave v3 to perform basic lending and borrowing. Providing liquidity not only earns incentives, but also generates revenue for the protocol.
 
+<figure><img src=".gitbook/assets/Untitled Diagram.drawio (2).png" alt=""><figcaption><p>A breifl of the YIELD tokenomics</p></figcaption></figure>
+
 ## Why Another Lending Protocol?
 
 YieldLend attempts to address an incentive problem with existing DeFi protocols.
@@ -35,13 +37,6 @@ YieldLend innovates here with a very simple solution. By incentivizing liquidity
 | YIELD is used to incentivize holders to stake their tokens | Revenue from the protocol is used to buyback and burn YIELD from the market.           |
 |                                                            | Users who stake their rewards (locking tokens from the supply) are given a 20% bonus.  |
 |                                                            | All rewards are vested (3 month vesting) with penalties for early withdrawals.         |
-
-
-
-1. Have a diverse lending market with support for many different assets. YieldLend currently has the most number of assets listed for lend/borrow on Base.
-2. Launching a fair-launched governance token (YIELD) with no team/VC allocation.
-3. Creating incentives to hold YIELD long term (Such as 4-year staking, staking bonuses and penalties for early withdrawal).
-4. Generating revenue from taxes and the lending market. Revenue generated from the protocol is used to continuously buyback and burn YIELD, increasing liquidity and making YIELD more scarce..
 
 ## Key Features of YIELD
 
