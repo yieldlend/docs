@@ -4,27 +4,39 @@ description: This website documents the various aspects of the YieldLend protoco
 
 # Welcome
 
-<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
-YieldLend is a native decentralized lending protocol built on Base ecosystem with 4x4 tokenomics.&#x20;
-
-YieldLend takes the best of Curve, Solidly, Aave and Radiant Finance, to create incentives that survive long-term growth but is short-term sustainable.
+YieldLend is a lending protocol built on Base with veMeme tokenomics. YieldLend takes the best of Curve, Radiant Finance and Memecoin tokenomics, to create strong incentives that survive long-term growth.
 
 With well designed tokenomics and a community driven fair launch, YieldLend strives to create a sustainable decentralized money market that can out-do other lending markets.
 
-Yield lend builds on top of the:
+Yield lend builds on top of:
 
 * **veTokenomics of Curve/Solidly**: Users can stake their YIELD tokens anywhere from 2 weeks to 4 years to have a vested interest in the ecosystem. The more tokens they stake, the bigger the share of rewards they earn.
 * **Reward Vesting Mechanics from Radiant Finance:** Users that earn rewards from the protocol in various forms such as staking, farming etc. have their rewards vested. Rewards can be withdrawn early (with a penalty) or staked for 4 years (with a bonus).
+* **Tax-tokenomics from Memecoins:** Users that trade the YIELD token pay a 5% tax on every sell that is used to contribute to token liquidity, increase token scarcity and generate revenue.
 * **Money market from Aave:** Users provide liquidity into the money market which is based on Aave v3 to perform basic lending and borrowing. Providing liquidity not only earns incentives, but also generates revenue for the protocol.
 
 ## Why Another Lending Protocol?
 
-YieldLend attempts to address a incentive problem with existing lending protocols on Base.
+YieldLend attempts to address an incentive problem with existing DeFi protocols.
 
-To grow liquidity, protocols need to give out emissions but unfortunately many projects on Base have either poor tokenomics, no long-term incentives or strong short-term revenue sources.
+To grow liquidity, DeFi protocols need to give out rewards to attract capital but unfortunately many projects on have inflationary tokenomics that incentivize predatory capital and a long-term decline in price. Hence, most DeFi protocols (whilst innovative) typically have a price chart that looks like this.
 
-YieldLend fixes this by:
+<figure><img src=".gitbook/assets/Screenshot 2023-12-03 at 11.48.48 PM.png" alt=""><figcaption><p>The Aave price chart, whilst highly revenue generating still declines in price</p></figcaption></figure>
+
+On the other hard, Memecoins have deflationary tokenomics that attract short term interest, but quickly die down because they don't have any real utility (other than the meme/community itself).
+
+YieldLend innovates here with a very simple solution. By incentivizing liquidity with deflationary tokenomics.
+
+| Inflationary Mechanics                                     | Deflationary Mechanics                                                                 |
+| ---------------------------------------------------------- | -------------------------------------------------------------------------------------- |
+| YIELD is given out as rewards to incentivize liquidity     | 1% of YIELD is burnt every time a user sells YIELD on an exchange                      |
+| YIELD is used to incentivize holders to stake their tokens | Revenue from the protocol is used to buyback and burn YIELD from the market.           |
+|                                                            | Users who stake their rewards (locking tokens from the supply) are given a 20% bonus.  |
+|                                                            | All rewards are vested (3 month vesting) with penalties for early withdrawals.         |
+
+
 
 1. Have a diverse lending market with support for many different assets. YieldLend currently has the most number of assets listed for lend/borrow on Base.
 2. Launching a fair-launched governance token (YIELD) with no team/VC allocation.
