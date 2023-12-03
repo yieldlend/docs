@@ -10,8 +10,8 @@ In an effort to fortify our community's security measures, a timelock mechanism 
 
 For reference, the contract addresses are as follows:
 
-* Timelock Contract: 0x000
-* Safe Contract (Multisig): 0x000
+* Timelock Contract: [0x1a85d24a7C3f9995b7D91209c928980c03001D51](https://basescan.org/address/0x1a85d24a7c3f9995b7d91209c928980c03001d51#code)
+* Safe Contract (Multisig): [0x3f927868aAdb217ed137e87c44c83e4A3EB7f70B](https://app.safe.global/home?safe=base:0x3f927868aAdb217ed137e87c44c83e4A3EB7f70B)
 
 All admin functionalities to the protocol are protected within these two contracts.
 
