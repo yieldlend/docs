@@ -7,7 +7,7 @@
 * [Taxes & Fees](tokenomics/taxes-and-fees.md)
 * [veTokenomics](tokenomics/vetokenomics.md)
 * [Emission Schedule](tokenomics/emission-schedule.md)
-* [Bonding Curve Sale](tokenomics/bonding-curve-sale.md)
+* [Bonding Curve Offering](tokenomics/bonding-curve-sale.md)
 * [Vesting](tokenomics/vesting.md)
 * [Governance](tokenomics/governance.md)
 
